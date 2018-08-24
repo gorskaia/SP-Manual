@@ -1,0 +1,123 @@
+\BOOKMARK [-1][-]{part.1}{I \040 }{}% 1
+\BOOKMARK [0][-]{chapter.1}{ }{part.1}% 2
+\BOOKMARK [1][-]{section.1.1}{ \040}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{ \040UNIX}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.3}{ \040 UNIX}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.3.1}{ }{section.1.3}% 6
+\BOOKMARK [2][-]{subsection.1.3.2}{, , \040}{section.1.3}% 7
+\BOOKMARK [0][-]{chapter.2}{ \040}{part.1}% 8
+\BOOKMARK [1][-]{section.2.1}{ \040}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.2}{ }{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.3}{-}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.4}{ \040}{chapter.2}% 12
+\BOOKMARK [0][-]{chapter.3}{ \040 UNIX}{part.1}% 13
+\BOOKMARK [1][-]{section.3.1}{}{chapter.3}% 14
+\BOOKMARK [2][-]{subsection.3.1.1}{ \040 \040}{section.3.1}% 15
+\BOOKMARK [1][-]{section.3.2}{ }{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.3}{, , }{chapter.3}% 17
+\BOOKMARK [-1][-]{part.2}{II \040 shell}{}% 18
+\BOOKMARK [0][-]{chapter.4}{ }{part.2}% 19
+\BOOKMARK [1][-]{section.4.1}{ }{chapter.4}% 20
+\BOOKMARK [2][-]{subsection.4.1.1}{ \040 \(prompt string\)}{section.4.1}% 21
+\BOOKMARK [1][-]{section.4.2}{ \040}{chapter.4}% 22
+\BOOKMARK [2][-]{subsection.4.2.1}{IFS}{section.4.2}% 23
+\BOOKMARK [2][-]{subsection.4.2.2}{ \040 \040 \040subshell}{section.4.2}% 24
+\BOOKMARK [2][-]{subsection.4.2.3}{ }{section.4.2}% 25
+\BOOKMARK [2][-]{subsection.4.2.4}{Glob-}{section.4.2}% 26
+\BOOKMARK [2][-]{subsection.4.2.5}{}{section.4.2}% 27
+\BOOKMARK [2][-]{subsection.4.2.6}{ shell \040}{section.4.2}% 28
+\BOOKMARK [0][-]{chapter.5}{ shell}{part.2}% 29
+\BOOKMARK [1][-]{section.5.1}{ \040 }{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.2}{ }{chapter.5}% 31
+\BOOKMARK [1][-]{section.5.3}{ }{chapter.5}% 32
+\BOOKMARK [0][-]{chapter.6}{ \040 \040shell}{part.2}% 33
+\BOOKMARK [1][-]{section.6.1}{ }{chapter.6}% 34
+\BOOKMARK [1][-]{section.6.2}{ , , , }{chapter.6}% 35
+\BOOKMARK [2][-]{subsection.6.2.1}{ }{section.6.2}% 36
+\BOOKMARK [2][-]{subsection.6.2.2}{}{section.6.2}% 37
+\BOOKMARK [2][-]{subsection.6.2.3}{}{section.6.2}% 38
+\BOOKMARK [2][-]{subsection.6.2.4}{}{section.6.2}% 39
+\BOOKMARK [0][-]{chapter.7}{ -}{part.2}% 40
+\BOOKMARK [1][-]{section.7.1}{ \040-}{chapter.7}% 41
+\BOOKMARK [1][-]{section.7.2}{ }{chapter.7}% 42
+\BOOKMARK [0][-]{chapter.8}{set \040env}{part.2}% 43
+\BOOKMARK [1][-]{section.8.1}{ set}{chapter.8}% 44
+\BOOKMARK [1][-]{section.8.2}{ env}{chapter.8}% 45
+\BOOKMARK [-1][-]{part.3}{III \040 \040 }{}% 46
+\BOOKMARK [0][-]{chapter.9}{ \040 }{part.3}% 47
+\BOOKMARK [1][-]{section.9.1}{ }{chapter.9}% 48
+\BOOKMARK [2][-]{subsection.9.1.1}{ \040 \040UNIX}{section.9.1}% 49
+\BOOKMARK [1][-]{section.9.2}{main-}{chapter.9}% 50
+\BOOKMARK [2][-]{subsection.9.2.1}{ main-}{section.9.2}% 51
+\BOOKMARK [1][-]{section.9.3}{ }{chapter.9}% 52
+\BOOKMARK [1][-]{section.9.4}{ \040 }{chapter.9}% 53
+\BOOKMARK [2][-]{subsection.9.4.1}{perror \(3\) \040strerror \(3\)}{section.9.4}% 54
+\BOOKMARK [0][-]{chapter.10}{ }{part.3}% 55
+\BOOKMARK [1][-]{section.10.1}{}{chapter.10}% 56
+\BOOKMARK [1][-]{section.10.2}{Makefile \040 make}{chapter.10}% 57
+\BOOKMARK [-1][-]{part.4}{IV \040 \040}{}% 58
+\BOOKMARK [0][-]{chapter.11}{ \040! \( \040 \)}{part.4}% 59
+\BOOKMARK [1][-]{section.11.1}{inode}{chapter.11}% 60
+\BOOKMARK [1][-]{section.11.2}{ stat}{chapter.11}% 61
+\BOOKMARK [1][-]{section.11.3}{ }{chapter.11}% 62
+\BOOKMARK [2][-]{subsection.11.3.1}{ \040 }{section.11.3}% 63
+\BOOKMARK [2][-]{subsection.11.3.2}{fcntl}{section.11.3}% 64
+\BOOKMARK [1][-]{section.11.4}{ }{chapter.11}% 65
+\BOOKMARK [0][-]{chapter.12}{ -}{part.4}% 66
+\BOOKMARK [1][-]{section.12.1}{ \040 }{chapter.12}% 67
+\BOOKMARK [1][-]{section.12.2}{ \040}{chapter.12}% 68
+\BOOKMARK [1][-]{section.12.3}{-}{chapter.12}% 69
+\BOOKMARK [2][-]{subsection.12.3.1}{ -}{section.12.3}% 70
+\BOOKMARK [2][-]{subsection.12.3.2}{- \040}{section.12.3}% 71
+\BOOKMARK [2][-]{subsection.12.3.3}{ -}{section.12.3}% 72
+\BOOKMARK [2][-]{subsection.12.3.4}{ }{section.12.3}% 73
+\BOOKMARK [0][-]{chapter.13}{}{part.4}% 74
+\BOOKMARK [1][-]{section.13.1}{ dirent}{chapter.13}% 75
+\BOOKMARK [1][-]{section.13.2}{ \040 \040 \040}{chapter.13}% 76
+\BOOKMARK [1][-]{section.13.3}{ \040 }{chapter.13}% 77
+\BOOKMARK [0][-]{chapter.14}{}{part.4}% 78
+\BOOKMARK [1][-]{section.14.1}{ }{chapter.14}% 79
+\BOOKMARK [1][-]{section.14.2}{ }{chapter.14}% 80
+\BOOKMARK [0][-]{chapter.15}{ }{part.4}% 81
+\BOOKMARK [-1][-]{part.5}{V \040 }{}% 82
+\BOOKMARK [0][-]{chapter.16}{ \040}{part.5}% 83
+\BOOKMARK [1][-]{section.16.1}{ }{chapter.16}% 84
+\BOOKMARK [2][-]{subsection.16.1.1}{ }{section.16.1}% 85
+\BOOKMARK [2][-]{subsection.16.1.2}{ getent}{section.16.1}% 86
+\BOOKMARK [-1][-]{part.6}{VI \040, \040 \040}{}% 87
+\BOOKMARK [0][-]{chapter.17}{ \040 }{part.6}% 88
+\BOOKMARK [1][-]{section.17.1}{ }{chapter.17}% 89
+\BOOKMARK [2][-]{subsection.17.1.1}{ \040}{section.17.1}% 90
+\BOOKMARK [2][-]{subsection.17.1.2}{ \040}{section.17.1}% 91
+\BOOKMARK [2][-]{subsection.17.1.3}{ \040}{section.17.1}% 92
+\BOOKMARK [0][-]{chapter.18}{ }{part.6}% 93
+\BOOKMARK [1][-]{section.18.1}{ \040}{chapter.18}% 94
+\BOOKMARK [-1][-]{part.7}{VII }{}% 95
+\BOOKMARK [0][-]{chapter.19}{ \040}{part.7}% 96
+\BOOKMARK [1][-]{section.19.1}{ }{chapter.19}% 97
+\BOOKMARK [-1][-]{part.8}{VIII \040 }{}% 98
+\BOOKMARK [0][-]{chapter.20}{}{part.8}% 99
+\BOOKMARK [1][-]{section.20.1}{ }{chapter.20}% 100
+\BOOKMARK [1][-]{section.20.2}{ \040}{chapter.20}% 101
+\BOOKMARK [1][-]{section.20.3}{ }{chapter.20}% 102
+\BOOKMARK [2][-]{subsection.20.3.1}{ \040 fork}{section.20.3}% 103
+\BOOKMARK [2][-]{subsection.20.3.2}{ \040 exec}{section.20.3}% 104
+\BOOKMARK [0][-]{chapter.21}{ }{part.8}% 105
+\BOOKMARK [1][-]{section.21.1}{}{chapter.21}% 106
+\BOOKMARK [1][-]{section.21.2}{}{chapter.21}% 107
+\BOOKMARK [2][-]{subsection.21.2.1}{ }{section.21.2}% 108
+\BOOKMARK [2][-]{subsection.21.2.2}{ }{section.21.2}% 109
+\BOOKMARK [1][-]{section.21.3}{}{chapter.21}% 110
+\BOOKMARK [1][-]{section.21.4}{}{chapter.21}% 111
+\BOOKMARK [2][-]{subsection.21.4.1}{ }{section.21.4}% 112
+\BOOKMARK [1][-]{section.21.5}{ }{chapter.21}% 113
+\BOOKMARK [1][-]{section.21.6}{ }{chapter.21}% 114
+\BOOKMARK [1][-]{section.21.7}{ STREAMS}{chapter.21}% 115
+\BOOKMARK [0][-]{chapter.22}{}{part.8}% 116
+\BOOKMARK [1][-]{section.22.1}{ }{chapter.22}% 117
+\BOOKMARK [1][-]{section.22.2}{ }{chapter.22}% 118
+\BOOKMARK [2][-]{subsection.22.2.1}{ \040}{section.22.2}% 119
+\BOOKMARK [2][-]{subsection.22.2.2}{ volatile}{section.22.2}% 120
+\BOOKMARK [2][-]{subsection.22.2.3}{}{section.22.2}% 121
+\BOOKMARK [2][-]{subsection.22.2.4}{rwlock}{section.22.2}% 122
+\BOOKMARK [0][-]{lstnumber.-112.10}{}{part.8}% 123
